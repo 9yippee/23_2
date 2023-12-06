@@ -246,5 +246,41 @@
     <ClCompile Include="sub.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="202314493_13주차_01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202314493_13주차_02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202314493_13주차_03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202314493_13주차_04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202314493_13주차_05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202314493_13주차_06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202314493_13주차_07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202314493_13주차_08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202314493_13주차_09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202314493_13주차_10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202314493_13주차_11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202314493_13주차_12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
