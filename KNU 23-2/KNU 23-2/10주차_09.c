@@ -1,11 +1,12 @@
 #include <stdio.h>
+#include <time.h>
 #include <stdlib.h>
 #pragma warning (disable : 4996)
 
 int main()
 {
 	int x, y, ans, i;
-	srand(time(NULL));
+	srand((unsigned)time(NULL));
 
 	for (i = 0; i < 10; i++)
 	{
