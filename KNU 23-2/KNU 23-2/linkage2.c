@@ -1,5 +1,5 @@
 extern int all_files;
-//extern int thie_file;
+//extern int this_file;
 
 void sub()
 {

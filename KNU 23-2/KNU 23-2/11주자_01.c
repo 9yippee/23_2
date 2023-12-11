@@ -24,19 +24,19 @@ int main()
 	while (1)
 	{
 		printfOptions();
-		printf("¸Þ´º¿¡¼­ ¼±ÅÃÇÏ¼¼¿ä");
+		printf("¸Þ´º¿¡¼­ ¼±ÅÃÇÏ¼¼¿ä : ");
 		choice = getchar();
 		if (choice == 'q')
 			break;
 		else if (choice == 'c')
 		{
-			printf("¼·¾¾¿Âµµ");
+			printf("¼·¾¾¿Âµµ : ");
 			scanf("%lf", &temp);
 			printf("È­¾¾¿Âµµ : %lf\n", C2F(temp));
 		}
 		else if (choice == 'f')
 		{
-			printf("È­¾¾¿Âµµ");
+			printf("È­¾¾¿Âµµ : ");
 			scanf("%lf", &temp);
 			printf("¼·¾¾¿Âµµ : %lf\n", F2C(temp));
 		}
