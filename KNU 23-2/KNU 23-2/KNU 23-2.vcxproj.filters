@@ -282,5 +282,8 @@
     <ClCompile Include="202314493_13주차_12.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14_SelectionSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
