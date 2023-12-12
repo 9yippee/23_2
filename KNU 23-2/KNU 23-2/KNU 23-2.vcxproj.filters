@@ -285,5 +285,14 @@
     <ClCompile Include="14_SelectionSort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14_BinarySearchAlgorithm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14_Matrix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14_Matrix2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
