@@ -22,7 +22,7 @@ int binary_search(int list[], int n, int key)
 	low = 0;
 	high = n - 1;
 
-	while (low <= high)
+	while (low <= high)	
 	{
 		printf("[%d %d]\n", low, high);
 		middle = (low + high) / 2;
